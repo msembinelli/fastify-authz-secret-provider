@@ -18,7 +18,7 @@
   "author": "Vicente Canales <vicente@canales.io>",
   "license": "MIT",
   "dependencies": {
-    "jwks-rsa": "^1.6.0"
+    "jwks-rsa": "https://github.com/msembinelli/node-jwks-rsa.git"
   },
   "repository": {
     "type": "git",
